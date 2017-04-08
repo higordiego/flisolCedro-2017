@@ -1,0 +1,24 @@
+{
+  "name": "flisol",
+  "version": "1.0.0",
+  "description": "palestra sobre deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higordiego/flisolCedro-2017.git"
+  },
+  "keywords": [
+    "html",
+    "bootstrap",
+    "servidores"
+  ],
+  "author": "Higor DIego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/higordiego/flisolCedro-2017/issues"
+  },
+  "homepage": "https://github.com/higordiego/flisolCedro-2017#readme"
+}
